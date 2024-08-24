@@ -1,5 +1,5 @@
 # git-basico-taller
-<<<<<<< HEAD
+
 sds
 dsdsdsds
 sdsdsds
@@ -9,7 +9,6 @@ dsdsdsdsd
 asas
 aasasas
 asasasas
-=======
 
 //agregar cambio 
 
@@ -58,4 +57,3 @@ feature/libreria_nueva -> aun no existe en la rama remota
 git branch 
 
 git push origin feature/libreria_nueva
->>>>>>> 3788e0abc1ea985186ff93d22c6b5dc33c9fe133
